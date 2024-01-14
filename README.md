@@ -5,7 +5,8 @@ Robotul rulează de luni până vineri la ora 18 și cere utilizatorului să int
 1. Numele utilizatorului.
 2. Data inregistrarii.
 3. Numărul de ore lucrate în ziua respectivă.
-4. O scurtă descriere a activităților desfășurate în ziua respectivă.                                                                                                                                                                                                                                                                                                                                          
+4. O scurtă descriere a activităților desfășurate în ziua respectivă.
+  
 Robotul efectueaza următoarele acțiuni:
 - Verifica dacă data curentă este în intervalul de luni până vineri și ora este după ora 18. Dacă nu este, să afișeze un mesaj de eroare și să încheie programul.
 - Verifica dacă utilizatorul a introdus un număr valid de ore lucrate (un număr pozitiv și mai mic sau egal cu 24) sau daca data introdusa este in format valid (dd/mm/yyyy). Dacă nu este valid, să afișeze un mesaj de eroare și să solicite reintroducerea informațiilor.
